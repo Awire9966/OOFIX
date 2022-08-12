@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\bin\Debug\CopyOOF.exe.config
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\bin\Debug\CopyOOF.exe
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\bin\Debug\CopyOOF.pdb
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\obj\Debug\CopyOOF.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\obj\Debug\CopyOOF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\obj\Debug\CopyOOF.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\obj\Debug\CopyOOF.exe
+C:\Users\Awire\source\repos\CopyOOF\CopyOOF\obj\Debug\CopyOOF.pdb
