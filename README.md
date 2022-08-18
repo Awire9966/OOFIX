@@ -1,5 +1,6 @@
 # OOFIX
 Use this tool on any windows version and bring back the oof.
+Working as of 8/17/22
 
 -DOES NOT WORK WITH WINDOWS STORE ROBLOX, USE WEB VERSION: https://www.roblox.com/download/client
 
