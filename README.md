@@ -1,4 +1,5 @@
 # OOFIX
+## Please Note that if you are getting an error, please run it with admin.
 Use this tool on any windows version and bring back the oof.
 - Working as of 8/24/22
 
