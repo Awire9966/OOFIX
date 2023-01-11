@@ -1,4 +1,6 @@
 # OOFIX
+## NOTICE:
+Sadly, My website is being listed as spam on https://www.spamhaus.org/ . Within the coming months, OOFIX will be unsupported. I will be making a new program with tons of new features That will let you modify EVERYTHING. Stay tuned for that on my github (https://github.com/Awire9966). Thank you all who have supported this project
 ## Please Note that if you are getting an error, please run it with admin.
 Use this tool on any windows version and bring back the oof.
 - Working as of 8/24/22
